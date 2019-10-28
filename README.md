@@ -1,4 +1,4 @@
-This is a demo project for hsbc practice. Weather source is from openweathermap.org
+This is a demo project for practice. Weather source is from openweathermap.org
 
 Step to run the project
 It is very easy to run the project in your local environment
